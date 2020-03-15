@@ -102,3 +102,31 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+experiments/batch_all/checkpoint
+experiments/batch_all/events.out.tfevents.1584217743.LAPTOP-F99V25IJ
+experiments/batch_all/events.out.tfevents.1584219092.LAPTOP-F99V25IJ
+experiments/batch_all/graph.pbtxt
+experiments/batch_all/model.ckpt-0.data-00000-of-00001
+experiments/batch_all/model.ckpt-0.index
+experiments/batch_all/model.ckpt-0.meta
+experiments/batch_all/model.ckpt-13724.data-00000-of-00001
+experiments/batch_all/model.ckpt-13724.index
+experiments/batch_all/model.ckpt-13724.meta
+experiments/batch_all/model.ckpt-18750.data-00000-of-00001
+experiments/batch_all/model.ckpt-18750.index
+experiments/batch_all/model.ckpt-18750.meta
+experiments/batch_all/model.ckpt-32478.data-00000-of-00001
+experiments/batch_all/model.ckpt-32478.index
+experiments/batch_all/model.ckpt-32478.meta
+experiments/batch_all/model.ckpt-37500.data-00000-of-00001
+experiments/batch_all/model.ckpt-37500.index
+experiments/batch_all/model.ckpt-37500.meta
+experiments/batch_all/eval/checkpoint
+experiments/batch_all/eval/embeddings.ckpt.data-00000-of-00001
+experiments/batch_all/eval/embeddings.ckpt.index
+experiments/batch_all/eval/embeddings.ckpt.meta
+experiments/batch_all/eval/events.out.tfevents.1584219917.LAPTOP-F99V25IJ
+experiments/batch_all/eval/mnist_10k_sprite.png
+experiments/batch_all/eval/mnist_metadata.tsv
+experiments/batch_all/eval/projector_config.pbtxt
+.vscode/settings.json
